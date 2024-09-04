@@ -661,7 +661,7 @@ function closeModal(id) {
 
 function endGame(who) {
   if (who == player) {
-    announceWinner("Congratulations, [Your name] won!");
+    announceWinner("Congratulations, Tarun won!");
   } else if (who == computer) {
     announceWinner("Computer wins!");
   } else {
