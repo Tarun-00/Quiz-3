@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "Quiz-3-IST107-CCTB-main",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
