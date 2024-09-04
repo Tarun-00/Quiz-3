@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "Quiz-3-IST107-CCTB-main",
+    "public": "../",
     "ignore": [
       "firebase.json",
       "**/.*",
